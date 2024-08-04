@@ -4,7 +4,7 @@ EchSniff is a simple network packet sniffer written in Python using Scapy. It al
 
 ## Usage
 
-python EchSniff.py -i interface -c count
+Python3 EchSniff.py -i interface -c count
 
 ## Features
 
